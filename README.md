@@ -46,7 +46,7 @@ I am a fullstack developer from Ecuador.
 ### :fire: My Stats :
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoterux&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neoterux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ntrx-gh-stats.vercel.app/api/top-langs/?username=neoterux&layout=compact&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
