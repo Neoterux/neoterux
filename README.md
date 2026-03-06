@@ -13,9 +13,8 @@
 ### :man_technologist: About Me:
 I am a fullstack developer from Ecuador.
 
-- :closed_book: I'm studying Computer Engineer at ESPOL.
+- :closed_book: Computer Engineer at ESPOL.
 - :zap: In my free times I like to read about Programming languages, *especially low level languages*.
-- :computer: I love to play with my hardware.
 - :metal: I really like Open Source and contribute to it.
 - :mailbox: Contact me through LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-labajana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/labajana/)
 
