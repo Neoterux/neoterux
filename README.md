@@ -13,6 +13,7 @@
 ### :man_technologist: About Me:
 I am a fullstack developer from Ecuador.
 
+- :briefcase: At **Santa Priscila** I work as **Software Architect**, **Solutions Architect** and **DBA**: I design the architecture of the company's internal systems, such as its in-house ERP, and administer their databases.
 - :closed_book: Computer Engineer at ESPOL.
 - :zap: In my free times I like to read about Programming languages, *especially low level languages*.
 - :metal: I really like Open Source and contribute to it.
