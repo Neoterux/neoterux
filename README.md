@@ -54,16 +54,15 @@ I am a fullstack developer from Ecuador.
 #### PC Specs
 
 - OS: Arch Linux
-- WM:[ Xmonad](https://github.com/Neoterux/XmonadConfig)
-- CPU: Ryzen 5 5600g
-- RAM: 16GB 3200Mhz
-- SSD: 512GB Nvme
+- WM: [Hyprland](https://github.com/Neoterux/dotfiles)
+- CPU: Ryzen 5 5600G
+- RAM: 32 GB
+- SSD: 1 TB NVMe
 
 #### Laptop
 
-- OS: Arch Linux
-- WM:[ Xmonad](https://github.com/Neoterux/XmonadConfig)
-- Model: MSI Modern 15
-- CPU: Ryzen 7 5700u
-- RAM: 32 GB 3200Mhz
-- SSD: 1.5TB Nvme
+- OS: macOS
+- Model: MacBook Pro 14" (M4 Pro)
+- CPU: Apple M4 Pro
+- RAM: 24 GB
+- SSD: 1 TB
