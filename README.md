@@ -1,69 +1,99 @@
-[![@neoterux's Holopin board](https://holopin.me/neoterux)](https://holopin.io/@neoterux)
-
-<!--div id="header" align="center" style="margin:auto">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-<a href="https://www.linkedin.com/in/labajana/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&"/>
-</a>
-</div-->
-
----
-### :man_technologist: About Me:
-I am a fullstack developer from Ecuador.
-
-- :briefcase: At **Santa Priscila** I work as **Software Architect**, **Solutions Architect** and **DBA**: I design the architecture of the company's internal systems, such as its in-house ERP, and administer their databases.
-- :closed_book: Computer Engineer at ESPOL.
-- :zap: In my free times I like to read about Programming languages, *especially low level languages*.
-- :metal: I really like Open Source and contribute to it.
-- :mailbox: Contact me through LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-labajana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/labajana/)
-
----
-
-### :hammer_and_wrench: Languages, Frameworks and Tools:
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40" alt="haskell"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="kotlin"/>&nbsp;
-<br/> 
-<!--Frameworks and IDE/Editors-->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="40" height="40" alt="eslint"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="npm"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="laravel"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="Visual Studio Code"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" height="40" alt="Vim"/>&nbsp;
+
+# Hi, I'm Luis 👋
+
+<a href="https://github.com/Neoterux">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Architect;Solutions+Architect;Database+Administrator;Low-level+languages+enthusiast" alt="Software Architect · Solutions Architect · DBA"/>
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/labajana/"><img src="https://img.shields.io/badge/LinkedIn-labajana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Ecuador-🇪🇨-FFD100?style=for-the-badge" alt="Ecuador"/>
+  <img src="https://komarev.com/ghpvc/?username=neoterux&style=for-the-badge&color=58A6FF&label=Profile+views" alt="Profile views"/>
+</p>
+
 </div>
 
 ---
 
-### :fire: My Stats :
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=neoterux&theme=dark&background=000000)](https://git.io/streak-stats)
+### 👨‍💻 About Me
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=neoterux&layout=compact&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+I'm a fullstack developer from Ecuador.
+
+- 💼 At **Santa Priscila** I work as **Software Architect**, **Solutions Architect** and **DBA**: I design the architecture of the company's internal systems, such as its in-house ERP, and administer their databases.
+- 📕 Computer Engineer at **ESPOL**.
+- ⚡ In my free time I like to read about programming languages, *especially low-level languages*.
+- 🤘 I really like Open Source and contribute to it.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/labajana/).
 
 ---
 
-### :rocket: My Workstations:
+### 🛠️ Languages, Frameworks & Tools
 
-#### PC Specs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,php,haskell,js&theme=dark" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nodejs,linux,arch,vim,vscode&theme=dark" alt="Frameworks and tools"/>
+</p>
 
-- OS: Arch Linux
-- WM: [Hyprland](https://github.com/Neoterux/dotfiles)
-- CPU: Ryzen 5 5600G
-- RAM: 32 GB
-- SSD: 1 TB NVMe
+---
 
-#### Laptop
+### 🔥 Stats
 
-- OS: macOS
-- Model: MacBook Pro 14" (M4 Pro)
-- CPU: Apple M4 Pro
-- RAM: 24 GB
-- SSD: 1 TB
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=neoterux&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=vision-friendly-dark&hide_border=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=neoterux&layout=compact&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="Top languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neoterux&theme=dark&background=0D1117&hide_border=true" alt="GitHub streak"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Workstations
+
+<table align="center">
+  <tr>
+    <th>🖥️ Desktop</th>
+    <th>💻 Laptop</th>
+  </tr>
+  <tr>
+    <td>
+
+| | |
+| --- | --- |
+| **OS** | Arch Linux |
+| **WM** | [Hyprland](https://github.com/Neoterux/dotfiles) |
+| **CPU** | Ryzen 5 5600G |
+| **RAM** | 32 GB |
+| **Storage** | 1 TB NVMe |
+
+</td>
+    <td>
+
+| | |
+| --- | --- |
+| **OS** | macOS |
+| **Model** | MacBook Pro 14" |
+| **Chip** | Apple M4 Pro |
+| **RAM** | 24 GB |
+| **Storage** | 1 TB SSD |
+
+</td>
+  </tr>
+</table>
+
+---
+
+### 🏅 Holopin
+
+<p align="center">
+  <a href="https://holopin.io/@neoterux"><img src="https://holopin.me/neoterux" alt="@neoterux's Holopin board"/></a>
+</p>
